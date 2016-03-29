@@ -1,0 +1,85 @@
+.common_wrap{
+	
+}
+/*通用白色头部*/
+.common_whiteHead{
+	display: block;
+	background: url("../images/common_wihteHead_bg.jpg") 0 -35px repeat-x;
+}
+.common_whiteHead_left{
+	display: block;
+	background: url("../images/common_wihteHead_bg.jpg") left 0 no-repeat;
+}
+.common_whiteHead_right{
+	padding-left: 16px;
+    overflow: hidden;
+    zoom: 1;
+    height: 35px;
+	background: url("../images/common_wihteHead_bg.jpg") right -70px no-repeat;
+}
+
+/*通用灰色头部*/
+.common_grayHead{
+	display: block;
+	background: url("../images/common_grayHead_bg.jpg") 0 -35px repeat-x;
+}
+.common_grayHead_left{
+	display: block;
+	background: url("../images/common_grayHead_bg.jpg") left 0 no-repeat;
+}
+.common_grayHead_right{
+	padding-left: 16px;
+    overflow: hidden;
+    zoom: 1;
+    height: 35px;
+	background: url("../images/common_grayHead_bg.jpg") right -70px no-repeat;
+}
+/*通用底部*/
+.common_footer_mid{
+	overflow: hidden;
+	height: 10px;
+	background: url("../images/common_botton_bg.jpg") 0 -13px repeat-x;
+}
+.common_footer_left{
+	float: left;
+	height: 10px;
+	width: 13px;
+	background: url("../images/common_botton_bg.jpg") left 0 no-repeat;
+}
+.common_footer_right{
+	float: right;
+	height: 10px;
+	width: 13px;
+	background: url("../images/common_botton_bg.jpg") right -26px no-repeat;
+}
+/*通用中间部分*/
+.common_main{
+	background-color: white;
+	border-left: 1px solid #e5e5e5;
+	border-right: 1px solid #e5e5e5;
+}
+.no_mt{
+	margin-top: 0;
+}
+
+
+
+
+
+/*特殊部分*/
+.calendar_head{
+	overflow: hidden;
+	width: 350px;
+	height: 74px;
+	background: url("../images/calendar_head_bg.jpg") 0 0 no-repeat;
+}
+.left_control{
+	width: 940px;
+}
+.left_left_control{
+	width: 100px;
+}
+.recommend_control{
+	width: 100px;
+
+}
