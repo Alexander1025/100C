@@ -1,0 +1,11 @@
+@charset "utf-8";
+h1,h2,strong{
+	font-size: 12px;
+	font-weight: normal;
+}
+em,var{
+	font-style: normal;
+}
+ul li{
+	list-style: none;
+}
