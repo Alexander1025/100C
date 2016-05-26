@@ -595,6 +595,7 @@ margin-top: 0;
 .ad3{
 	width:710px;
 	height:90px;
+	background-color:#91D474;
 	/*background:black;*/
 }
 .calendar{
@@ -1752,6 +1753,7 @@ display: inline-block;
 	.ad2{
 		width:240px;
 		height:180px;
+		background-color:#91D474;
 		/*background:lightblue;*/
 	}
 
